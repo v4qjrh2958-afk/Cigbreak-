@@ -1,0 +1,10 @@
+{
+  "name": "Cig Break",
+  "short_name": "Cig Break",
+  "description": "A 90 second reset… cig like Cignetti, not cigarette.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0d10",
+  "theme_color": "#0b0d10",
+  "icons": []
+}
